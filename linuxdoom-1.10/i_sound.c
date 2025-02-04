@@ -96,7 +96,7 @@ static int flag = 0;
 #define BUFMUL                  4
 #define MIXBUFFERSIZE		(SAMPLECOUNT*BUFMUL)
 
-#define SAMPLERATE		11025	// Hz
+#define SAMPLERATE		44100	// Hz
 #define SAMPLESIZE		2   	// 16bit
 
 // The actual lengths of all sound effects.
